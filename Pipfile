@@ -1,0 +1,33 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[packages]
+flask-marshmallow = "*"
+python-dateutil = "*"
+marshmallow-sqlalchemy = "*"
+bcrypt = "*"
+cffi = "*"
+click = "*"
+itsdangerous = "*"
+marshmallow = "*"
+six = "*"
+flask = "*"
+flask-sqlalchemy = "*"
+flask-bcrypt = "*"
+flask-cors = "*"
+jinja2 = "*"
+markupsafe = "*"
+SQLAlchemy = "*"
+Werkzeug = "*"
+psycopg2-binary = "*"
+sendgrid = "*"
+pillow = "*"
+cloudinary = "*"
+flask-heroku = "*"
+gunicorn = "*"
+python-dotenv = "*"
+
+[requires]
+python_version = "3.8"
